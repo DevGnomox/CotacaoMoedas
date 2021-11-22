@@ -1,4 +1,4 @@
-# CotacoMoedas
+# CotacaoMoedas
 Cotação de Moedas
 
 Nesse Programa tem a cotação e taxa de variação das seguintes moedas para BRL
